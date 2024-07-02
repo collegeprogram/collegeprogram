@@ -5,9 +5,9 @@
 
 
 
-- 🌱 I’m currently learning **HTML || C++**
+- 🌱 I’m currently learning JAVASCRIPT || JAVA
 
-- 💬 Ask me about **HTML and C++ related problems**
+- 💬 Ask me about **HTML ,CSS and JAVA related problems**
 
 - 📫 How to reach me **nitishsamrat577@gmail.com**
 
