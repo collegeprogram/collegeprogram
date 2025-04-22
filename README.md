@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning JAVASCRIPT || JAVA
 
-- 💬 Ask me about **HTML ,CSS and JAVA related problems**
+- 💬 Ask me about **React, HTML, CSS, Java-Script, SpringBoot, JAVA related problems**
 
 - 📫 How to reach me **nitishsamrat577@gmail.com**
 
